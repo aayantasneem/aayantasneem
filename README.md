@@ -19,6 +19,7 @@ Feel free to check out my projects below!
 
 ## Projects
 
+- **Quiz Game** — Developed a simple quiz game to practice core Python concepts.
 - **More projects coming soon...**
 
 ---
