@@ -19,6 +19,7 @@ Feel free to check out my projects below!
 
 ## Projects
 
+- **Personal Expense Tracker** — Developed a command-line expense tracker to organize and analyze daily spending.
 - **Quiz Game** — Developed a simple quiz game to practice core Python concepts.
 - **More projects coming soon...**
 
