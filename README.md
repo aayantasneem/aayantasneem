@@ -19,9 +19,10 @@ Feel free to check out my projects below!
 
 ## Projects
 
-- **Contact Book** — Developed a command-line contact manager with CRUD operations and file handling to manage personal contacts.
-- **Personal Expense Tracker** — Developed a command-line expense tracker to organize and analyze daily spending.
 - **Quiz Game** — Developed a simple quiz game to practice core Python concepts.
+- **Personal Expense Tracker** — Developed a command-line expense tracker to organize and analyze daily spending.
+- **Contact Book** — Developed a command-line contact manager with CRUD operations and file handling to manage personal contacts.
+- **Basic Statistical Calculator** — Developed a NumPy-based calculator to perform common statistical operations using OOP principles and user input. 
 - **More projects coming soon...**
 
 ---
