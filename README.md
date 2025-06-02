@@ -1,33 +1,68 @@
-# Hi, I'm Aayan
+# 👋 Hi, I'm Muhammad Aayan Tasneem
 
-I'm learning Artificial Intelligence, Data Science, and Python by building projects and solving real-world problems.
-
-I focus on creating small applications to strengthen my skills in programming, data handling, and AI concepts.
-
-Currently, I'm working on improving my knowledge in:
-- Python Programming
-- Data Science
-- Pandas
-- NumPy
-- SQL
-- Basic Machine Learning
-
-Every project I create is a step forward toward building real skills.  
-Feel free to check out my projects below!
+🎯 Software Developer turned Data Explorer | AI Engineer in Transition  
+🐍 Python • Data Science • Machine Learning • Automation  
+💡 Building intelligent solutions one script at a time
 
 ---
 
-## Projects
+## 🧠 About Me
 
-- **Quiz Game** — Developed a simple quiz game to practice core Python concepts.
-- **Personal Expense Tracker** — Developed a command-line expense tracker to organize and analyze daily spending.
-- **Contact Book** — Developed a command-line contact manager with CRUD operations and file handling to manage personal contacts.
-- **Basic Statistical Calculator** — Developed a NumPy-based calculator to perform common statistical operations using OOP principles and user input. 
-- **More projects coming soon...**
+I'm a software developer evolving into an AI engineer — blending my backend experience with a growing passion for Python, data, and machine learning.
+
+Over the last 2+ years, I’ve worked on backend systems using PHP, MySQL, and APIs. But today, I’m focused on solving real-world problems using Python — through automation, data exploration, and beginner ML workflows.
+
+This GitHub is a reflection of my learning journey: hands-on projects, exploratory code, and scripts that turn **data into insights**.
 
 ---
 
-## How to Reach Me
+## 🔍 Learning Areas
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadaayantasneem)  
-Or explore more of my work here on GitHub.
+- Python (OOP, scripting, automation)
+- Pandas, NumPy, Matplotlib
+- Data Cleaning & Visualization
+- SQL for data workflows
+- Basic ML with scikit-learn
+- Agile, Git, and task-based collaboration
+
+---
+
+## 📂 Projects
+
+- **🧠 Quiz Game**  
+  A terminal-based quiz built to reinforce Python control flow and logic.
+
+- **💸 Expense Tracker**  
+  CLI app to log and analyze expenses — featuring file handling and modular design.
+
+- **📇 Contact Book**  
+  Command-line CRUD app using OOP to manage contacts with persistent storage.
+
+- **📐 Statistical Calculator**  
+  A NumPy-powered tool that computes mean, median, mode, and more.
+
+---
+
+## 💼 Professional Experience
+
+- **Software Developer @ NovelOPS PVT LTD**  
+  Developed backend systems with PHP & MySQL, introduced Python for automation, and worked in Agile using Git + Asana.
+
+- **Software Developer @ Interactive Media**  
+  Focused on API design, debugging, and backend workflows — now applying that logic in data and ML contexts.
+
+---
+
+## 🎓 Learning Journey (Brief)
+
+- **BS Computer Science** — Sindh Madressatul Islam University *(In Progress)*
+
+> 🧠 These programs support my self-driven learning and project work in AI, Python, and data science.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadaayantasneem)  
+- 📧 m.aayantasneem@gmail.com  
+- 🔗 Check out my pinned projects below!
