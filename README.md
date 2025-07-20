@@ -41,6 +41,9 @@ This GitHub is a reflection of my learning journey: hands-on projects, explorato
 - **📐 Statistical Calculator**  
   A NumPy-powered tool that computes mean, median, mode, and more.
 
+- **🎬 Netflix Dataset Analysis**  
+  Exploratory data analysis using Pandas and NumPy to uncover trends in Netflix content by country, type, rating, and release year.
+
 ---
 
 ## 💼 Professional Experience
